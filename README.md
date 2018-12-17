@@ -1,0 +1,2 @@
+# puretest
+pure test
